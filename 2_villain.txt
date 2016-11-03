@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 
 The villain was the infamous hideous and crazy lady leprechaun Dark Helmet who somehow could control dragons.
 Dark Helmet not only has in his possession a dark helmet, he also has the legendary stick of mind control.
 The stick wasn't accually a stick. It was his very old snake that suffered from major arthritis problems.
 
 The villain was no less than the infamous leprechaun Dark Helmet who somehow could control fat dragons.
+=======
+The villain was no less than the infamous leprechaun Dark Helmet who somehow could control fat dragons.
+
+Dark Helmet not only has in his possession a dark helmet, he also has the legendary stick of mind control.
+The stick wasn't accually a stick. It was the leprechauns very old snake that suffered from major arthritis problems.
+>>>>>>> 14666449f3bcadebc724b902a602dcb687aa2f04
